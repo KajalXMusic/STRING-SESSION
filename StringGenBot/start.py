@@ -25,7 +25,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ᴀɴꜱʜ ᴋɪɴɢ](https://t.me/ANSHKING82)
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/ANSHU_PAID_CC"),
+                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/ANSH_PAID_CC"),
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/ANSHKING82")
                 ]
             ]
