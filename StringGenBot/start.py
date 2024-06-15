@@ -18,7 +18,7 @@ Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ᴀɴꜱʜ ᴋɪɴɢ](https://t.me/ANSHKING82) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ᴀɴꜱʜ ᴋɪɴɢ](https://t.me/ANSH_PASIL) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -26,7 +26,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ᴀɴꜱʜ ᴋɪɴɢ](https://t.me/ANSHKING82)
                 ],
                 [
                     InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/ANSH_PAID_CC"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/ANSHKING82")
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/ANSH_PASIL")
                 ]
             ]
         ),
