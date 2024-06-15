@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ ANSH STRING SESSION BOT ❤️</b></h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
+  <img src="https://graph.org/file/6d5dafa343cc135578508.jpg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
 <a href="https://github.com/WCGKING/STRING-SESSION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WCGKING&repo=STRING-SESSION&theme=chartreuse-dark"></a>
@@ -38,7 +38,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/ANSHUUSTRINGSESSION_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/ANSHSTRINGSESSION_BOT)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
